@@ -1,2 +1,6 @@
-# RC-Speed-Tank
-3D Printed RC tank
+# RC Speed Tank
+
+This project is an existing project. For English and german explanation and for the .stl files, clik on the folowing link.
+Ce projet est basé sur un projet existant, tout les fichiers .stl sont disponnibles sur le lien suivant.
+
+https://www.thingiverse.com/thing:2024364
